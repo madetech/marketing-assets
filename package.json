@@ -1,0 +1,15 @@
+{
+  "name": "marketing-assets",
+  "version": "1.0.0",
+  "description": "Made Tech marketing assets",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madetech/marketing-assets.git"
+  },
+  "author": "Made Tech <hello@madetech.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/madetech/marketing-assets/issues"
+  },
+  "homepage": "https://github.com/madetech/marketing-assets#readme"
+}
