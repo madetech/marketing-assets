@@ -4,7 +4,8 @@
   "description": "Made Tech marketing assets",
   "files": [
     "fonts/**/*.{ttf,eot,woff,svg}",
-    "logos/**/*.png"
+    "logos/**/*.png",
+    "icons/**/*.svg"
   ],
   "repository": {
     "type": "git",
