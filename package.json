@@ -5,7 +5,7 @@
   "files": [
     "fonts/**/*.{ttf,eot,woff,svg}",
     "logos/**/*.png",
-    "icons/**/*.{png,svg}"
+    "icons/**/*.svg"
   ],
   "repository": {
     "type": "git",
