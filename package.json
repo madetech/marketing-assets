@@ -11,10 +11,16 @@
     "type": "git",
     "url": "git+https://github.com/madetech/marketing-assets.git"
   },
+  "scripts": {
+    "release": "release-it --src.tagName='v%s' --github.release --github.assets ."
+  },
   "author": "Made Tech <hello@madetech.com>",
   "license": "UNLICENSED",
   "bugs": {
     "url": "https://github.com/madetech/marketing-assets/issues"
   },
-  "homepage": "https://github.com/madetech/marketing-assets#readme"
+  "homepage": "https://github.com/madetech/marketing-assets#readme",
+  "devDependencies": {
+    "release-it": "^14.3.0"
+  }
 }
