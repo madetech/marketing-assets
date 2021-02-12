@@ -1,6 +1,6 @@
 {
   "name": "@madetech/marketing-assets",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "description": "Made Tech marketing assets",
   "files": [
     "fonts/**/*.{ttf,eot,woff,svg}",
