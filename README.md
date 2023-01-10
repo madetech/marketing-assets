@@ -1,3 +1,7 @@
+## Marketing assets 
+
+Here are some assets and guidelines. We hope you find them useful!
+
 ## Social Media Guidance
 
 Being active on social media is a great way to connect with others, build your network, open up new opportunities, and stay up to date with what's happening at Made Tech and in the public sector. 
