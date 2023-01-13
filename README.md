@@ -10,15 +10,15 @@ We encourage everyone at Made Tech to make the most of our social channels - we'
 
 Here are some social media guidelines to follow:
 
-- **Creating profiles** - We encourage everyone at Made Tech to avoid creating different profiles for work and personal use - we want you to be yourself at work and online! Having one profile can also be helpful for transparency and credibility reasons.
+**Creating profiles** - We encourage everyone at Made Tech to avoid creating different profiles for work and personal use - we want you to be yourself at work and online! Having one profile can also be helpful for transparency and credibility reasons.
 
-- **Politically contraversial things** - Use your best judgement and common sense when engaging on social media. Due to the nature of our work in the public sector, please try to avoid commenting on politically controversial issues and avoid making any kind of personal attack or tasteless or offensive remarks to individuals or groups. Also, be careful not to disclose any confidential information.
+**Politically contraversial things** - Use your best judgement and common sense when engaging on social media. Due to the nature of our work in the public sector, please try to avoid commenting on politically controversial issues and avoid making any kind of personal attack or tasteless or offensive remarks to individuals or groups. Also, be careful not to disclose any confidential information.
 
-- **Being included in posts** - If you'd prefer not to be included in any posts on the Made Tech accounts, please let the marketing team know. We’ll make sure we won’t mention or tag you in future posts.
+**Being included in posts** - If you'd prefer not to be included in any posts on the Made Tech accounts, please let the marketing team know. We’ll make sure we won’t mention or tag you in future posts.
 
-- **Joining conversations** - Help us share what is going on at Made Tech by following our accounts and joining the conversation! It really goes a long way and helps build Made Tech’s profile as well as your own personal brand. 
+**Joining conversations** - Help us share what is going on at Made Tech by following our accounts and joining the conversation! It really goes a long way and helps build Made Tech’s profile as well as your own personal brand. 
 
-- **Brand engagements** - Please leave brand engagements to the marketing team to respond to.
+**Brand engagements** - Please leave brand engagements to the marketing team to respond to.
 
 If you have any questions, feel free to reach out to the marketing team. We're happy to help!
 
