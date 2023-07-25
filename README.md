@@ -6,13 +6,13 @@ Here are some assets and guidelines. We hope you find them useful!
 
 Being active on social media is a great way to connect with others, build your network, open up new opportunities, and stay up to date with what's happening at Made Tech and in the public sector. 
 
-We encourage everyone at Made Tech to make the most of our social channels - we're on LinkedIn, Twitter, Facebook, and Instragram.
+We encourage everyone at Made Tech to make the most of our social channels - we're on LinkedIn, Twitter, Facebook, and Instagram.
 
 Here are some social media guidelines to follow:
 
 **Creating profiles** - We encourage everyone at Made Tech to avoid creating different profiles for work and personal use - we want you to be yourself at work and online! Having one profile can also be helpful for transparency and credibility reasons.
 
-**Politically contraversial things** - Use your best judgement and common sense when engaging on social media. Due to the nature of our work in the public sector, please try to avoid commenting on politically controversial issues and avoid making any kind of personal attack or tasteless or offensive remarks to individuals or groups. Also, be careful not to disclose any confidential information.
+**Politically controversial things** - Use your best judgment and common sense when engaging on social media. Due to the nature of our work in the public sector, please try to avoid commenting on politically controversial issues and avoid making any kind of personal attack or tasteless or offensive remarks to individuals or groups. Also, be careful not to disclose any confidential information.
 
 **Being included in posts** - If you'd prefer not to be included in any posts on the Made Tech accounts, please let the marketing team know. We’ll make sure we won’t mention or tag you in future posts.
 
